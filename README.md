@@ -25,12 +25,4 @@
 |Bibi's cafe|Restaurant|breakfast/brunch|Wood Quay|[link](https://www.google.com/maps/place/Bibi's+Caf%C3%A9/@53.3347497,-6.2775264,15.12z/data=!4m5!3m4!1s0x0:0x1b9014e92ae2b623!8m2!3d53.3336088!4d-6.2725684)||
 |Pickle Restaurant|Restaurant|Indian|Saint Kevin's|[link](https://www.google.com/maps/place/Pickle+Restaurant/@53.3371936,-6.2738665,15.12z/data=!4m5!3m4!1s0x48670ea004f3572f:0x7c2d80cb14880611!8m2!3d53.3339868!4d-6.2650931)||
 |Golden Olive|Restaurant|Mediterranean/Indian|Near UCD|[link](https://www.google.com/maps/place/Golden+Olive+Restaurant-Mediterranean,+Indian,+middle+eastern+food+services./@53.3045265,-6.2433028,15z/data=!4m8!1m2!2m1!1srestaurants!3m4!1s0x486709391265c071:0xc752be91e588c2ed!8m2!3d53.3045265!4d-6.2345481)||
-|||||||
-|||||||
-
-
-## Activities and Other Links
-
-|Activity/Venue|Description|Website|
-|--------------|-----------|-------|
-||||
+|
